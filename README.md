@@ -24,7 +24,7 @@ Here is a chart of how long each quality setting takes.
 | 7 | 0m29.114s |
 | 8 | 1m24.416s |
 | 9 | 3m22.458s |
-| 10 |  |
+| 10 | 13m3.580s |
 
 ## Build
 `git clone https://github.com/thesusian/LiveRGB.git`
