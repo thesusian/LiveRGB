@@ -80,10 +80,10 @@ int main()
         char hexAvg[8];
         std::snprintf(hexAvg, sizeof hexAvg, "%02x%02x%02x", rAvg, gAvg, bAvg);
 
-        //setColor(Device1, hexAvg);
-        //setColor(Device2, hexAvg);
+        setColor(Device1, hexAvg);
+        setColor(Device2, hexAvg);
 
-        //sleep(refreshDelay);
+        sleep(refreshDelay);
     }
 
     return 0;
